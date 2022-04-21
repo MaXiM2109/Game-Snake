@@ -9,7 +9,7 @@
 ### Тело
 ![spek 1](pic/body.png)
 ### Умершая голова
-![spek 1](pic/deadSnake.png))
+![spek 1](pic/deadSnake.png)
 ### И еда
 ![spek 1](pic/food.png)
 ##### Эта игра готова к тому, чтобы её редактировали, это лишь шаблон.
